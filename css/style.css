@@ -1,0 +1,115 @@
+#heroSection h1 {
+  font-family: "Cinzel";
+  font-size: 5rem;
+  font-weight: bold;
+}
+body {
+  background-color: #fedd00;
+}
+
+#heroText {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+
+#actionBar span {
+  padding: 20px;
+}
+
+.hero {
+}
+
+#logo {
+  padding-right: 100px;
+}
+.column {
+}
+
+#expSection {
+  padding-top: 10px;
+  padding-bottom: 0;
+}
+.skillicon {
+  font-size: 5rem;
+  text-align: center;
+}
+.skillBox p {
+  text-align: center;
+}
+
+.skillBox {
+  width: 25%;
+}
+.is-child {
+}
+.title {
+  font-family: "Cinzel", serif;
+  margin-bottom: 0 !important;
+}
+.title p {
+  font-family: "Source Sans Pro", sans-serif;
+}
+.techHeader {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 12pt;
+}
+#thankYou {
+}
+#thankYou .tile {
+}
+
+@media only screen and (max-width: 768px) {
+  #heroSection {
+    padding: 100px;
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  .skillicon {
+    font-size: 5rem;
+  }
+
+  #heroSection,
+  .container {
+    margin: 0;
+    padding: 10px;
+  }
+}
+
+#projectCopy {
+  font-size: 12px;
+  width: 60%;
+}
+#techSkills {
+  text-align: center;
+}
+#projectList {
+  text-align: center;
+}
+#projectRow {
+  padding-top: 25px;
+}
+#thankYouSection {
+  width: 50%;
+}
+
+.job li {
+  padding-left: 10px;
+  font-size: 0.8rem;
+}
+#jobTitle {
+  margin: 0;
+  padding: 0;
+  font-size: 1rem;
+}
+.date {
+  font-size: 0.5rem;
+}
+
+.image {
+  height: 50%;
+  padding-left: 10%;
+}
