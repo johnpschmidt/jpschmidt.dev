@@ -27,7 +27,12 @@ a {
 }
 .column {
 }
+#heroLogo{
+  height: auto;
+  width: 50%;
+  border-radius: 50%;
 
+}
 #expSection {
   padding-top: 10px;
   padding-bottom: 0;
@@ -39,7 +44,10 @@ a {
 .skillBox p {
   text-align: center;
 }
+#photoColumn{
+  font-family: "Cinzel";
 
+}
 .skillBox {
   width: 25%;
 }
